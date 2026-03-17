@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+pdfplumber
+pillow
+huggingface-hub
+pymupdf

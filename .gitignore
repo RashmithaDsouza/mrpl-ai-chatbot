@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Vector database
+vector_store/
+
+# Uploaded PDFs
+uploads/
+
+# Temporary images
+temp_images/
+
+# Chat history files
+chat_history/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Executables
+*.exe
