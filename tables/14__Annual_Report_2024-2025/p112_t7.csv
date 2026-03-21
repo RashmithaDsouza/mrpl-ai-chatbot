@@ -1,0 +1,11 @@
+"S.
+No.",Particulars,Total,Male,col,Female,col_2
+,,No. (A),No. (B),%(B/A),No. (C),%(C/A)
+,EMPLOYEES,,,,,
+1.,Permanent (D),"1,162","1,092",93.98%,70,6.02%
+2.,Other than Permanent (E),0,0,NA,0,NA
+3.,Total employees (D + E),"1,162","1,092",93.98%,70,6.02%
+WORKERS,,,,,,
+4.,Permanent (F),"1,368 1,212",,88.60%,156,11.40%
+5.,Other than Permanent (G),"4,089 3,786",,92.59%,303,7.41%
+6.,Total workers (F + G),"5,457 4,998",,92.59%,459,7.41%

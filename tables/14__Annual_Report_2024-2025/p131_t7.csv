@@ -1,0 +1,24 @@
+Category,% of workers covered by,col,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10
+,Total (A),H ealth insurance,,"Accident
+insurance",,"Maternity
+benefits",,Paternity benefits,,"Day Care
+facilities",
+,,"Number
+(B)","%
+(B / A)","Number
+(C)","%
+(C / A)","Number
+(D)","%
+(D / A)","Number
+(E )","%
+(E / A)","Number
+(F)","%
+(F/ A)"
+,,,,,Permanen,t workers,,,,,
+Male,"1,212","1,212",100.00%,"1,212",100.00%,NA,NA,"1,212",100.00%,"1,212",100.00%
+Female,156,156,100.00%,156,100.00%,156,100.00%,NA,NA,156,100.00%
+Total,"1,368","1,368",100.00%,"1,368",100.00%,156,100.00%,"1,212",100.00%,"1,368",100.00%
+,,,,Other,than Perm,anent wor,kers*,,,,
+Male,"3,786",0,0%,"3,786",100.00%,NA,NA,NA,NA,"3,786",100.00%
+Female,303,0,0%,303,100.00%,303,100.00%,NA,NA,303,100.00%
+Total,"4,089",0,0%,"4,089",100.00%,303,100.00%,NA,NA,"4,089",100.00%

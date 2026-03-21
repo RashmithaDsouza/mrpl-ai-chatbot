@@ -1,0 +1,13 @@
+"Employee
+Category","Total
+Strength as
+on 31.03.2025",Gender,col,Age Group,col_2,col_3,col_4
+,,Male,Female,"Below
+30 yrs.","31 to
+40 yrs.","41 to
+50 yrs.","51 to
+60 yrs."
+Executives,1162,1092,70,146,301,382,333
+Non-Executives,1368,1212,156,152,743,345,128
+Total,2530,2304,226,298,1044,727,461
+Percentage %,,91%,9%,12%,41%,29%,18%
